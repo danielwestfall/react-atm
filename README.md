@@ -1,5 +1,5 @@
 # Project Name
-> [ATM Refactoring Project - Click here to view!](https://danielwestfall.github.io/atmProject/atm.html)
+> [ATM Refactoring Project - Click here to view!](https://danielwestfall.github.io/react-atm/atm.html)
 
 ## Table of contents
 ---
@@ -26,8 +26,8 @@ We were instructed to refactor the code and add our own improvements. I started 
 
 ## Links
 ---
-* [Open the Project](https://danielwestfall.github.io/atmProject/atm.html)
-* [View it on GitHub](https://github.com/danielwestfall/atmProject)
+* [Open the Project](https://danielwestfall.github.io/react-atm/atm.html)
+* [View it on GitHub](https://github.com/danielwestfall/react-atm)
 
 ## Screenshots
 ---
@@ -42,7 +42,7 @@ We were instructed to refactor the code and add our own improvements. I started 
 
 ## Setup
 ---
-Feel free to [check out the project here!](https://danielwestfall.github.io/atmProject/atm.html). This is a production build, I will add the raw code in a different repo later.
+Feel free to [check out the project here!](https://danielwestfall.github.io/react-atm/atm.html). This is a production build, I will add the raw code in a different repo later.
 
 
 ## Features
