@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/danielwestfall/react-atm/static/css/main.5f899406.chunk.css",
+    "main.js": "/danielwestfall/react-atm/static/js/main.b70478db.chunk.js",
+    "main.js.map": "/danielwestfall/react-atm/static/js/main.b70478db.chunk.js.map",
+    "runtime-main.js": "/danielwestfall/react-atm/static/js/runtime-main.f84d5851.js",
+    "runtime-main.js.map": "/danielwestfall/react-atm/static/js/runtime-main.f84d5851.js.map",
+    "static/js/2.ab395597.chunk.js": "/danielwestfall/react-atm/static/js/2.ab395597.chunk.js",
+    "static/js/2.ab395597.chunk.js.map": "/danielwestfall/react-atm/static/js/2.ab395597.chunk.js.map",
+    "static/js/3.ee88d29c.chunk.js": "/danielwestfall/react-atm/static/js/3.ee88d29c.chunk.js",
+    "static/js/3.ee88d29c.chunk.js.map": "/danielwestfall/react-atm/static/js/3.ee88d29c.chunk.js.map",
+    "index.html": "/danielwestfall/react-atm/index.html",
+    "static/css/main.5f899406.chunk.css.map": "/danielwestfall/react-atm/static/css/main.5f899406.chunk.css.map",
+    "static/js/2.ab395597.chunk.js.LICENSE.txt": "/danielwestfall/react-atm/static/js/2.ab395597.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f84d5851.js",
+    "static/js/2.ab395597.chunk.js",
+    "static/css/main.5f899406.chunk.css",
+    "static/js/main.b70478db.chunk.js"
+  ]
+}
